@@ -72,7 +72,7 @@ html {
 
 .hero {
   height: 100vh;
-  background: url("/images/Home.jpg") left /cover no-repeat;
+  background: url("/prectice-project/images/Home.jpg") left /cover no-repeat;
   background-size: cover;
 
   position: relative;
@@ -652,7 +652,7 @@ html {
   justify-content: space-between;
   align-items: center;
   padding-block: 100px;
-  background: url("/images/Backpage.jpg") center/cover no-repeat;
+  background: url("/prectice-project/images/Backpage.jpg") center/cover no-repeat;
 }
 
 .testimonial-card {
